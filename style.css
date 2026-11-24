@@ -1,0 +1,23 @@
+
+body {
+  background-color: #fefeff;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #245578;
+}
+
+img {
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4682b4;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
